@@ -17,9 +17,7 @@ body{
     margin-bottom: 0px;
 }  
 
-*, ::after, ::before {
-    box-sizing: border-box;
-}
+
 
 .navbar .navbar-nav .nav-link {
     color:black;
